@@ -1,0 +1,82 @@
+Non-Commercial Source-Available License v1.0
+
+Copyright (c) 2026 Vlad Shkuratov. All rights reserved.
+
+1. DEFINITIONS
+
+"Software" means the source code, object code, documentation, trained model
+artifacts, and associated files distributed in this repository.
+
+"Commercial Use" means use of the Software, in whole or in part, that is
+intended for or directed toward commercial advantage or monetary
+compensation, including without limitation:
+  (a) selling, licensing, sublicensing, or renting the Software;
+  (b) hosting the Software, or a modified or derivative version of it, as a
+      service (SaaS) made available to any third party for a fee, on a
+      freemium basis, or in connection with paid advertising, subscriptions,
+      or lead generation;
+  (c) incorporating the Software into a commercial product or service, or
+      using it to provide paid consulting, betting, trading, or advisory
+      services to third parties;
+  (d) any use by, for, or on behalf of a business, in furtherance of that
+      business's commercial operations.
+
+"Evaluation Use" means non-commercial review of the Software for the purpose
+of assessing the author's technical skills or work product, including
+without limitation review by a hiring manager, recruiter, or interview panel
+as part of a job application or technical interview process, and inclusion
+of the Software (or references to it) in a personal portfolio.
+
+2. GRANT OF RIGHTS
+
+Subject to the terms of this License, the copyright holder grants you a
+worldwide, royalty-free, non-exclusive, non-transferable, revocable license
+to:
+  (a) view, download, and fork the Software;
+  (b) run and modify the Software locally, for personal, educational,
+      academic research, and Evaluation Use;
+  (c) share unmodified copies of the Software for the purposes above,
+      provided this LICENSE file and all copyright notices are retained.
+
+3. RESTRICTIONS
+
+You may NOT, under any circumstances:
+  (a) engage in any Commercial Use of the Software or any derivative work
+      based on it;
+  (b) host a public or private instance of the Software, or a service
+      derived from it, on behalf of any third party, whether or not a fee
+      is charged;
+  (c) remove or obscure any copyright, attribution, or license notice
+      contained in the Software;
+  (d) sublicense, sell, or otherwise transfer any rights granted under this
+      License to any other party;
+  (e) represent the Software, or work substantially derived from it, as
+      your own original work.
+
+4. NO WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT. THE SOFTWARE
+INVOLVES SPORTS-BETTING-ADJACENT PROBABILITY ESTIMATES AND MUST NOT BE RELIED
+UPON FOR ACTUAL WAGERING OR FINANCIAL DECISIONS; ANY SUCH USE IS AT YOUR OWN
+RISK.
+
+5. LIMITATION OF LIABILITY
+
+IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, OR
+OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE,
+ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+DEALINGS IN THE SOFTWARE.
+
+6. TERMINATION
+
+This License and the rights granted under it terminate automatically if you
+breach any of its terms. Upon termination, you must cease all use of the
+Software and destroy all copies in your possession.
+
+7. CONTACT / COMMERCIAL LICENSING
+
+If you wish to use this Software commercially, contact the copyright holder
+to discuss a separate commercial license. No commercial rights are granted
+by this License.

@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+models/*
+!models/.gitkeep
+
+frontend/node_modules/
+# frontend/dist is intentionally NOT ignored: it is committed pre-built so
+# end users never need Node/npm installed to run the app.
