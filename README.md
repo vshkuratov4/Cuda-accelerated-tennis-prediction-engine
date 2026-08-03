@@ -1,4 +1,4 @@
-# Tennis Match Predictor
+# Tennis Match Predictor.
 
 A single-port, cross-platform local web app that predicts ATP match outcomes from 26
 years of real historical data, with a calibrated-XGBoost inference engine, automatic
